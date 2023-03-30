@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "reting": 10,
+      "text": "This is feedback item 1 coming from the backend"
+    },
+    {
+      "id": 2,
+      "reting": 7,
+      "text": "This is feedback item 2 coming from the backend"
+    },
+    {
+      "id": 3,
+      "reting": 2,
+      "text": "This is feedback item 3 coming from the backend"
+    },
+    {
+      "text": "This is feedback item 3 coming from the backendfefef",
+      "reting": 9,
+      "id": 5
+    },
+    {
+      "text": "Eduardo Bispo dos Santos",
+      "reting": 7,
+      "id": 6
+    }
+  ]
+}
